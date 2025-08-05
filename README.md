@@ -23,12 +23,19 @@ The Dataset can be downloaded from [here](https://statso.io/2024/09/16/screen-ti
 
 ## Key Insights
 ![Image](https://github.com/user-attachments/assets/11af6687-667e-4ed7-82af-797cfb344309)
+
 A bar chart comparing the average daily usage (in minutes) of Instagram, Netflix, and WhatsApp across different days of the week. Instagram generally has the highest usage, followed by Netflix, with WhatsApp having the lowest usage across the days.
-![Image](https://github.com/user-attachments/assets/c5d459fa-74c5-4546-84f5-860584a3f107)a
+
+![Image](https://github.com/user-attachments/assets/c5d459fa-74c5-4546-84f5-860584a3f107)
+
 A bar chart displaying the average screen time (in minutes) per day of the week. Monday has the highest screen time usage, while Friday has the lowest. Other days show varying trends of screen time usage throughout the week.
+
 ![Image](https://github.com/SankarSubbu/Analyzing-Screen-Time/blob/451658d0cd2d5d7b00b9c165ee9dfefdec50e4f0/Relationships%20between%20Screen%20Time%2C%20Notifications%2C%20Times%20Opened.png)
+
 A pairplot showing the relationships between screen time, notifications, and times an app is opened. It highlights the distribution and correlation between these variables, showing how increased notifications and frequent app openings correlate with higher usage.
+
 ![Image](https://github.com/SankarSubbu/Analyzing-Screen-Time/blob/27f8a250fe5d75ece40c00528bb2dcf7da1f5a3d/Screen%20Time%20Trends%20for%20Different%20Apps.png)
+
 A line plot illustrating the trends in screen time usage (in minutes) for various apps over a span of dates. Apps like Instagram and WhatsApp show higher fluctuations, while others like LinkedIn and Facebook have more consistent usage patterns.
 
 
